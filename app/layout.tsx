@@ -9,6 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "AI With PDF",
   description: "AI With PDF Challange",
+  icons: "/logo-pdf.png",
 };
 
 export default function RootLayout({
